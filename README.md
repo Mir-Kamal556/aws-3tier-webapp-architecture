@@ -177,13 +177,7 @@ nano config.inc.php
 
 ---
 
-
-## Author
-
-**Mir Kamal Uddin**  
-AWS & DevOps Engineer | IT Support Engineer   
-[LinkedIn](https://www.linkedin.com/in/mirkamal-uddin41639029a/) | [GitHub](https://github.com/Mir-Kamal556)
-
+---
 ## Screenshots
 
 ### VPC & Subnets
@@ -203,3 +197,13 @@ AWS & DevOps Engineer | IT Support Engineer
 
 ### phpMyAdmin Accessible
 ![phpMyAdmin](Screenshots/Screenshot%2025-10-21%170603.png)
+
+---
+
+## Author
+
+**Mir Kamal Uddin**  
+AWS & DevOps Engineer | IT Support Engineer   
+[LinkedIn](https://www.linkedin.com/in/mirkamal-uddin41639029a/) | [GitHub](https://github.com/Mir-Kamal556)
+
+
