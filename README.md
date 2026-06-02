@@ -179,6 +179,5 @@ nano config.inc.php
 ## Author
 
 **Mir Kamal Uddin**  
-AWS & DevOps Engineer | IT Support Engineer  
-📍 Dubai, UAE  
+AWS & DevOps Engineer | IT Support Engineer   
 [LinkedIn](https://www.linkedin.com/in/mirkamal-uddin41639029a/) | [GitHub](https://github.com/Mir-Kamal556)
