@@ -176,10 +176,18 @@ nano config.inc.php
 `AWS VPC` `EC2` `RDS MySQL` `Application Load Balancer` `NAT Gateway` `Internet Gateway` `Security Groups` `Route Tables` `Apache HTTP Server` `PHP 8.2` `phpMyAdmin` `Amazon Linux 2023`
 
 ---
+
+
+## Author
+
+**Mir Kamal Uddin**  
+AWS & DevOps Engineer | IT Support Engineer   
+[LinkedIn](https://www.linkedin.com/in/mirkamal-uddin41639029a/) | [GitHub](https://github.com/Mir-Kamal556)
+
 ## Screenshots
 
 ### VPC & Subnets
-![VPC Setup](Screenshots/Screenshot 2025-10-21 152123.png)
+![VPC Setup](Screenshots/Screenshot%2025-10-21%152123.png)
 ![Subnet Map](Screenshots/Screenshot%2025-10-21%152149.png)
 
 ### EC2 Instances Running
@@ -195,9 +203,3 @@ nano config.inc.php
 
 ### phpMyAdmin Accessible
 ![phpMyAdmin](Screenshots/Screenshot%2025-10-21%170603.png)
-
-## Author
-
-**Mir Kamal Uddin**  
-AWS & DevOps Engineer | IT Support Engineer   
-[LinkedIn](https://www.linkedin.com/in/mirkamal-uddin41639029a/) | [GitHub](https://github.com/Mir-Kamal556)
