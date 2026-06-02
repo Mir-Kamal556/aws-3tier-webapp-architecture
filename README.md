@@ -154,6 +154,7 @@ nano config.inc.php
 
 ## Proof of Work
 
+
 | Step | Status |
 |---|---|
 | VPC with 6 subnets across 2 AZs | ✅ |
@@ -175,6 +176,25 @@ nano config.inc.php
 `AWS VPC` `EC2` `RDS MySQL` `Application Load Balancer` `NAT Gateway` `Internet Gateway` `Security Groups` `Route Tables` `Apache HTTP Server` `PHP 8.2` `phpMyAdmin` `Amazon Linux 2023`
 
 ---
+## Screenshots
+
+### VPC & Subnets
+![VPC Setup](screenshots/Screenshot_2025-10-21_152123.png)
+![Subnet Map](screenshots/Screenshot_2025-10-21_152149.png)
+
+### EC2 Instances Running
+![EC2 Instances](screenshots/Screenshot_2025-10-21_154322.png)
+![EC2 Connect](screenshots/Screenshot_2025-10-21_154941.png)
+![PHP Install](screenshots/Screenshot_2025-10-21_154952.png)
+
+### Apache & PHP Installation
+![PHP 8.2 Install](screenshots/Screenshot_2025-10-21_170746.png)
+
+### Load Balancer Working
+![PHP Server 2](screenshots/Screenshot_2025-10-21_155225.png)
+
+### phpMyAdmin Accessible
+![phpMyAdmin](screenshots/Screenshot_2025-10-21_170603.png)
 
 ## Author
 
