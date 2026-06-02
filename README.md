@@ -192,13 +192,15 @@ nano config.inc.php
 <img src="Screenshots/Screenshot%202025-10-21%20154952.png" width="800">
 
 ### Apache & PHP Installation
-<img src="Screenshots/Screenshot%202025-10-21%20170746.png" width="800">
+<img src="Screenshots/Screenshot%202025-10-21%20170603.png" width="800">
+
+
 
 ### Load Balancer Working
 <img src="Screenshots/Screenshot%202025-10-21%20155225.png" width="800">
 
 ### phpMyAdmin Accessible
-<img src="Screenshots/Screenshot%202025-10-21%20170603.png" width="800">
+<img src="Screenshots/Screenshot%202025-10-21%20170746.png" width="800">
 
 ---
 
