@@ -182,22 +182,23 @@ nano config.inc.php
 
 ### VPC & Subnets
 <img src="Screenshots/Screenshot%202025-10-21%20152123.png" width="800">
-![VPC Setup](Screenshots/Screenshot%2025-10-21%152123.png)
-![Subnet Map](Screenshots/Screenshot%2025-10-21%152149.png)
+<img src="Screenshots/Screenshot%202025-10-21%20152149.png" width="800">
 
 ### EC2 Instances Running
-![EC2 Instances](Screenshots/Screenshot%2025-10-21%154322.png)
-![EC2 Connect](Screenshots/Screenshot%2025-10-21%154941.png)
-![PHP Install](Screenshots/Screensho%2025-10-21%154952.png)
+<img src="Screenshots/Screenshot%202025-10-21%20154322.png" width="800">
+
+<img src="Screenshots/Screenshot%202025-10-21%20154941.png" width="800">
+
+<img src="Screenshots/Screenshot%202025-10-21%20154952.png" width="800">
 
 ### Apache & PHP Installation
-![PHP 8.2 Install](Screenshots/Screenshot%2025-10-21%170746.png)
+<img src="Screenshots/Screenshot%202025-10-21%20170746.png" width="800">
 
 ### Load Balancer Working
-![PHP Server 2](Screenshots/Screenshot%2025-10-21%155225.png)
+<img src="Screenshots/Screenshot%202025-10-21%20155225.png" width="800">
 
 ### phpMyAdmin Accessible
-![phpMyAdmin](Screenshots/Screenshot%2025-10-21%170603.png)
+<img src="Screenshots/Screenshot%202025-10-21%20170603.png" width="800">
 
 ---
 
