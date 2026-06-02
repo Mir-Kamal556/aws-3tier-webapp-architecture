@@ -181,6 +181,7 @@ nano config.inc.php
 ## Screenshots
 
 ### VPC & Subnets
+<img src="Screenshots/Screenshot%202025-10-21%20152123.png" width="800">
 ![VPC Setup](Screenshots/Screenshot%2025-10-21%152123.png)
 ![Subnet Map](Screenshots/Screenshot%2025-10-21%152149.png)
 
