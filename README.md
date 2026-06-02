@@ -179,7 +179,7 @@ nano config.inc.php
 ## Screenshots
 
 ### VPC & Subnets
-![VPC Setup](Screenshots/Screenshot%2025-10-21%152123.png)
+![VPC Setup](Screenshots/Screenshot 2025-10-21 152123.png)
 ![Subnet Map](Screenshots/Screenshot%2025-10-21%152149.png)
 
 ### EC2 Instances Running
