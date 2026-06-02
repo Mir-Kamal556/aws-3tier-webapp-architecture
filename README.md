@@ -179,22 +179,22 @@ nano config.inc.php
 ## Screenshots
 
 ### VPC & Subnets
-![VPC Setup](screenshots/Screenshot_2025-10-21_152123.png)
-![Subnet Map](screenshots/Screenshot_2025-10-21_152149.png)
+![VPC Setup](Screenshots/Screenshot_2025-10-21_152123.png)
+![Subnet Map](Screenshots/Screenshot_2025-10-21_152149.png)
 
 ### EC2 Instances Running
-![EC2 Instances](screenshots/Screenshot_2025-10-21_154322.png)
-![EC2 Connect](screenshots/Screenshot_2025-10-21_154941.png)
-![PHP Install](screenshots/Screenshot_2025-10-21_154952.png)
+![EC2 Instances](Screenshots/Screenshot_2025-10-21_154322.png)
+![EC2 Connect](Screenshots/Screenshot_2025-10-21_154941.png)
+![PHP Install](Screenshots/Screenshot_2025-10-21_154952.png)
 
 ### Apache & PHP Installation
-![PHP 8.2 Install](screenshots/Screenshot_2025-10-21_170746.png)
+![PHP 8.2 Install](Screenshots/Screenshot_2025-10-21_170746.png)
 
 ### Load Balancer Working
-![PHP Server 2](screenshots/Screenshot_2025-10-21_155225.png)
+![PHP Server 2](Screenshots/Screenshot_2025-10-21_155225.png)
 
 ### phpMyAdmin Accessible
-![phpMyAdmin](screenshots/Screenshot_2025-10-21_170603.png)
+![phpMyAdmin](Screenshots/Screenshot_2025-10-21_170603.png)
 
 ## Author
 
